@@ -1,1 +1,1 @@
-# Security-and-Block-Chain
+# Decentralised, Block-Chain Based Technology for Secure Communication
